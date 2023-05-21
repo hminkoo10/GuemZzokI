@@ -3,9 +3,15 @@
 금쪽이 메인 코드입니다
 
 구현미밥의 금쪽이 개발일지
-사용하러 가기 : http://pf.kakao.com/비공개 (최신버전 : v1.7)
+사용하러 가기 : http://pf.kakao.com/비공개 (최신버전 : v1.8)
 오픈소스 : https://github.com/hminkoo10/GuemZzokI
 최종수정 2023.05.22 18:02
+
+오픈소스 : https://github.com/hminkoo10/GuemZzokI
+최종수정 2023.05.22 18:02
+
+v1.8 Open Source
+오픈소스 안내 추가
 
 v1.7 Meal Update
 이제 급식 명령어를 통해서 전국 모든 초.중.고 등학교의 급식을 보실 수 있습니다
